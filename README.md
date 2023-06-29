@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Miles, CTO, Software Engineer, Advisor and Coach. 
 
-<!--
-**tapster/tapster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help entrepreneurs, startups and scale-ups build and deliver modern software products, services and teams. 
 
-Here are some ideas to get you started:
+#### How can I help you? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CTO Coach
+- 👨🏻‍💻 Fractional CTO
+- 👷🏼 Build your MVP
+- 💱 Internationalisation
+- 💬 Voice Services
+- 🚀 Scaling up your startup
+
+Get in touch via twitter [@tapster](https://twitter.com/tapster) or [email](mailto:miles.woodroffe@gmail.com)! 
