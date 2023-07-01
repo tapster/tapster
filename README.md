@@ -1,4 +1,4 @@
-⏱️### Hi there 👋 I'm Miles, CTO, Software Engineer, Advisor and Coach. 
+### Hi there 👋 I'm Miles, CTO, Software Engineer, Advisor and Coach. 
 
 I help entrepreneurs, startups and scale-ups build and deliver modern software products, services and teams. 
 
