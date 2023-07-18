@@ -4,8 +4,7 @@ I help entrepreneurs, startups and scale-ups build and deliver modern software p
 
 #### How can I help you? 
 
-- 🎓 CTO Coach
-- ⏱️ Fractional CTO
+- ⏱️ Fractional CTO / Coach
 - 👨🏻‍💻 Build your MVP
 - 💱 Internationalisation
 - 🚀 Scaling up your startup
