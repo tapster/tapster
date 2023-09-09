@@ -5,7 +5,7 @@ I help entrepreneurs, startups and scale-ups build and deliver modern software p
 #### How can I help you? 
 
 - ⏱️ Fractional CTO 
-- 👨🏻‍💻 CTO Coach
-- 🚀 Scaling up your startup
+- 👨🏻‍💻 Software Engineer
+- 🚀 Advisor
 
 Get in touch via twitter [@tapster](https://twitter.com/tapster) or [email](mailto:miles.woodroffe@gmail.com)! 
